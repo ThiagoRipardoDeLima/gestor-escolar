@@ -6,6 +6,8 @@ use App\Models\User;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 
+use App\Forms\UserForm;
+
 class UsersController extends Controller
 {
     /**
